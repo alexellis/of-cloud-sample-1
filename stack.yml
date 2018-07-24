@@ -7,3 +7,4 @@ functions:
     lang: dockerfile
     handler: ./cal
     image: alexellis/cal:0.1
+
